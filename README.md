@@ -5,7 +5,8 @@ Invoice generator is a command line based tool that reads data from CSV and gene
 
 ## Quick Start
 
-```git clone https://github.com/jessegersensonchess/golang-invoice-generator
+```
+git clone https://github.com/jessegersensonchess/golang-invoice-generator
 cd golang-invoice-generator
 #### edit constants in invoice.go
 docker build -t invoice:latest 
